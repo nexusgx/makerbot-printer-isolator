@@ -1,6 +1,6 @@
 // ==UserScript==
 // @name         Makerbot monitor
-// @namespace    http://tampermonkey.net/
+// @namespace    https://github.com/nexusgx/makerbot-printer-isolator
 // @version      1.1
 // @description  Isolate the makerbot print monitor
 // @author       nexusgx
